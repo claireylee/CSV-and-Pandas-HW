@@ -1,0 +1,17 @@
+1. Through this assignment, I was able to gain more insight in working with CSV files through pandas DataFrams
+specifically for data manipulation. Specifically, I learned how to load, read, clean, and inspect data using pandas. 
+When it came to reading and cleaning datasets, I learned how to clean messy or big datasets. In this assignment I 
+was able to work on arranging and correctly implemneting column names or data types as pandas did not interpret the dataset correctly. 
+For data maniupulation, I was able to use techniques like filtering based on a given condition, grouping by categorical and quantitative 
+vaariables, and also performing aggregations such as summing player statistics. These skills are transferable to future data analysis projects 
+where I will be dealing with larger datasets for quick and accurate data exploration/manipulation. 
+
+2. The most challening part of this assignment was dealing with the headers in the CSV file. I had to skip a row for the headers to show up properly
+Initially, pandas implemented the column names wrong which lead to a complication of data interpretation. I was able to inspect the file 
+and identify the appropriate headers that should have been present. Additionally, handling non-numeric data in columns that contained numeric values was a bit confusing 
+as I had to use .to_numeric for data types to be manipulated easily. 
+
+3. The techniques that I used in this assignment, specifically filtering players using metrics and grouping data (schools)
+can be extended to a large variety of real-world datasets. For example, these methods can be used in all sports anaytics to compare player performances. 
+Additionally, in businesses there can be a lot of application on grouping and filtering when analyzing sales performances 
+across departments or locations. This ability to extract and manipulate raw data can be used broadly on many different fields where any sort of data collection is used. 
